@@ -1,1 +1,3 @@
+1. Generar una red neuronal (sin librerias) que utilice el daatset iris con producto punto, errores, y de dos capas.
+
 
