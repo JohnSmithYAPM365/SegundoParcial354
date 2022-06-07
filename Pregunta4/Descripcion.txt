@@ -1,1 +1,3 @@
+4. Con el uso de DEAP, resolver el anterior ejercicio.
+
 
